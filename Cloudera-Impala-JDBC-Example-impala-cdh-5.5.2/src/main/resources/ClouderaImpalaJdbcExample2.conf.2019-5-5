@@ -1,0 +1,6 @@
+connection.url = jdbc:impala://childNode-1.tdh.com:21050/default;AuthMech=0;
+jdbc.driver.class.name = com.cloudera.impala.jdbc41.Driver
+
+#connection.url = jdbc:hive2://mainNode-1.tdh.com:10000/default
+#jdbc.driver.class.name = org.apache.hive.jdbc.HiveDriver
+
